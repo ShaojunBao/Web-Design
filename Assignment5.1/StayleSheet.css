@@ -1,0 +1,17 @@
+.headerBlock{font-size: 14px;}
+      
+
+.titleMod{color: #ffffff;background-color: #212121; text-align:right;}
+.card-header{color: #1c1c1c; background-color: #ffffff;}
+
+.card{border-color: #ffffff;}
+.card-header:first-child {border-top-left-radius: 5px; border-top-right-radius: 5px;}
+footer a:link,footer a:visited{color: white; opacity:1;}
+footer{color: white; opacity:.7;}
+
+
+
+
+body {background-color: #282826; background-image:none;}
+
+
